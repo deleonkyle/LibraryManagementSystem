@@ -1,5 +1,6 @@
 # LibraryManagementSystem
 A Library Management System using mySql as a database
+
 Description:
 Library is one of the most useful places for the students when they are
 studying, doing research, etc., but due to the pandemic that we are experiencing right
